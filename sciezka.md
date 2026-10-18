@@ -13,6 +13,7 @@
 - Lua
 - Linux
 - SPIR-V
+- i wiele wiecej
 
 ###### Projekty:
 [moj github](https://github.com/UjemnyGH)
